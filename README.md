@@ -3,7 +3,7 @@
 The provided program fits a template mesh to a scan using a non-rigid iterative closet point (ICP) otimization. This template fitting had been used to register the training data of teh statistical models described in the [scientific publication](https://arxiv.org/pdf/1209.6491.pdf).
 
 <p align="center"> 
-<img src="img/TemplateFitting.png" width="20%">
+<img src="img/TemplateFitting.png" width="30%">
 </p>
 Figure: Given an input scan (and optionally 3D landmarks), the provided program minimizes the distance between a template mesh and the scan surface, returning a registered mesh. 
 
