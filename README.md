@@ -1,6 +1,6 @@
 ## Template fitting for non-rigid mesh registration
 
-The provided program fits a template mesh to a scan using a non-rigid iterative closet point (ICP) otimization.
+The provided program fits a template mesh to a scan using a non-rigid iterative closet point (ICP) otimization. This template fitting had been used to register the training data of teh statistical models described in the [scientific publication](https://arxiv.org/pdf/1209.6491.pdf).
 
 <p align="center"> 
 <img src="img/TemplateFitting.png" width="60%">
